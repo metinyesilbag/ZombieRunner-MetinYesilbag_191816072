@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/AnaSayfa.unity
+    guid: b5337a728b4cad2458d1802daf75387d
+  - enabled: 1
+    path: Assets/Scenes/seviye1.unity
+    guid: d90adbdca1ef5ff45af10563f7365d94
+  - enabled: 1
+    path: Assets/Scenes/seviye2.unity
+    guid: 95a54860aa808d04a9c14d0bdc23e05a
+  m_configObjects: {}
